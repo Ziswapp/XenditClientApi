@@ -1,3 +1,9 @@
+[![Build Status](https://travis-ci.org/Ziswapp/XenditClientApi.svg?branch=master)](https://travis-ci.org/Ziswapp/XenditClientApi)
+[![codecov](https://codecov.io/gh/Ziswapp/XenditClientApi/branch/master/graph/badge.svg)](https://codecov.io/gh/Ziswapp/XenditClientApi)
+[![Latest Stable Version](https://poser.pugx.org/ziswapp/xendit-client-api/v/stable)](https://packagist.org/packages/ziswapp/xendit-client-api)
+[![License](https://poser.pugx.org/ziswapp/xendit-client-api/license)](https://packagist.org/packages/ziswapp/xendit-client-api)
+[![Total Downloads](https://poser.pugx.org/ziswapp/xendit-client-api/downloads)](https://packagist.org/packages/ziswapp/xendit-client-api)
+
 # XenditClientApi
 This is unofficial xendit client api, built with `symfony/http-client`. currently support :
 
