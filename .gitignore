@@ -1,0 +1,8 @@
+/.idea/
+/vendor/
+composer.lock
+phpunit.xml
+.phpunit.result.cache
+coverage.xml
+clover.xml
+payment.php
